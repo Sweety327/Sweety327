@@ -1,10 +1,10 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=Hi%2C+I'm+Harini+%F0%9F%91%8B;CS+Engineer+%7C+AI+%26+ML+Specialist;I+build+secure+%26+intelligent+apps;ML+%7C+Test+Automation+%7C+Cloud+Deploy;Open+to+SDE+%2F+ML+Engineer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <!--
 **Sweety327/Sweety327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&width=500&lines=Hi%2C+I'm+Harini+%F0%9F%91%8B;CS+Engineer+%7C+AI+%26+ML+Specialist;I+build+secure+%26+intelligent+apps;ML+%7C+Test+Automation+%7C+Cloud+Deploy;Open+to+SDE+%2F+ML+Engineer+roles+%F0%9F%9A%80)](https://git.io/typing-svg)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
